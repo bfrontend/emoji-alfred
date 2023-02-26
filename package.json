@@ -1,0 +1,15 @@
+{
+  "name": "emoji-alfred",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "alx"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@webxmsj/alx": "^1.0.3"
+  }
+}
