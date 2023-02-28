@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@webxmsj/alx": "^1.0.3"
+    "@webxmsj/alx": "^1.0.4"
   }
 }
