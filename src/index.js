@@ -8,7 +8,7 @@ console.log(JSON.stringify({
         type: 'image',
         path: item.path
       },
-      arg: `${item.icon} ${item.type}: ${arg}`
+      arg: `${item.icon} ${item.type}:${arg}`
     }
   })
 }))

@@ -6,87 +6,81 @@
     "path": "icons/1f389.png"
   },
   {
-    "title": "添加新特性",
+    "title": "添加新功能",
     "icon": "✨",
     "type": "feat",
     "path": "icons/2728.png"
   },
   {
-    "title": "修复bug",
+    "title": "修复BUG",
     "icon": "🐞",
     "type": "fix",
     "path": "icons/1f41e.png"
   },
   {
-    "title": "仅仅修改文档",
-    "icon": "📃",
-    "type": "docs",
-    "path": "icons/1f4c3.png"
-  },
-  {
-    "title": "仅仅修改了空格、格式缩进、逗号等等，不改变代码逻辑",
-    "icon": "🌈",
-    "type": "style",
-    "path": "icons/1f308.png"
-  },
-  {
-    "title": "代码重构，没有加新功能或者修复bug",
-    "icon": "🦄",
-    "type": "refactor",
-    "path": "icons/1f984.png"
-  },
-  {
-    "title": "优化相关，比如提升性能、体验",
+    "title": "优化功能，比如提升性能、体验",
     "icon": "⚡️",
     "type": "perf",
     "path": "icons/26a1.png"
   },
   {
-    "title": "删除代码或文件",
-    "icon": "🔥",
-    "type": "delete",
-    "path": "icons/1f525.png"
+    "title": "代码风格, 仅仅修改了空格、格式缩进、逗号等等，不改变代码逻辑",
+    "icon": "🌈",
+    "type": "style",
+    "path": "icons/1f308.png"
   },
   {
-    "title": "关键的热修复补丁",
-    "icon": "🚑️",
-    "type": "patch",
-    "path": "icons/1f691.png"
+    "title": "重构代码，没有加新功能或者修复bug",
+    "icon": "🦄",
+    "type": "refactor",
+    "path": "icons/1f984.png"
   },
   {
-    "title": "增加测试用例",
+    "title": "撤销修改",
+    "icon": "revert",
+    "type": "fix",
+    "path": "icons/21a9-fe0f.png"
+  },
+  {
+    "title": "测试相关,如测试用例",
     "icon": "🧪",
     "type": "test",
     "path": "icons/1f9ea.png"
   },
   {
-    "title": "添加、更新或通过测试",
-    "icon": "✅",
-    "type": "passed",
-    "path": "icons/2705.png"
+    "title": "文档和注释相关",
+    "icon": "📃",
+    "type": "docs",
+    "path": "icons/1f4c3.png"
   },
   {
-    "title": "依赖相关的内容",
-    "icon": "🔧",
-    "type": "build",
-    "path": "icons/1f527.png"
-  },
-  {
-    "title": "ci配置相关 例如对 k8s，docker的配置文件的修改",
-    "icon": "🐎",
-    "type": "ci",
-    "path": "icons/1f40e.png"
-  },
-  {
-    "title": "改变构建流程、或者增加依赖库、工具等",
+    "title": "依赖更新/脚手架配置修改等",
     "icon": "🐳",
     "type": "chore",
     "path": "icons/1f433.png"
   },
   {
-    "title": "回滚到上一个版本",
-    "icon": "revert",
-    "type": "fix",
-    "path": "icons/21a9-fe0f.png"
+    "title": "工作流改进",
+    "icon": "🐳",
+    "type": "workflow",
+    "path": "icons/1f433.png"
+  },
+  {
+    "title": "持续集成, 如k8s，docker的配置文件的修改",
+    "icon": "🐎",
+    "type": "ci",
+    "path": "icons/1f40e.png"
+  },
+  {
+    "title": "类型定义文件更改",
+    "icon": "🚑️",
+    "type": "types",
+    "path": "icons/1f691.png"
+  },
+  {
+    "title": "开发中",
+    "icon": "✅",
+    "type": "types",
+    "path": "icons/2705.png"
   }
 ]
